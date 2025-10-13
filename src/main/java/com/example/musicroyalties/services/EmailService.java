@@ -264,7 +264,7 @@ public class EmailService {
     public void sendVerificationEmail(String email, String token) {
         String subject = "Email Verification";
         String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png"; // Make sure this URL is accessible
-        String verificationLink = "https://api.owellgraphics.com/api/auth/verify?token=" + token;
+        String verificationLink = "https://api.owellserver.ggff.net/api/auth/verify?token=" + token;
 
         String htmlBody =
                 "<div style='font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #f0f0f0; border-radius: 10px; background-color: #f9f7ff;'>" +

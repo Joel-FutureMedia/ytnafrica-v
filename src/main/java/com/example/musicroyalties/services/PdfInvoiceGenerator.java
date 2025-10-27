@@ -22,7 +22,7 @@ import java.math.RoundingMode;
 @Service
 public class PdfInvoiceGenerator {
 
-    private static final String LOGO_URL = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png";
+    private static final String LOGO_URL = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png";
 
     public byte[] generatePdf(Invoice invoice) {
         try (ByteArrayOutputStream outputStream = new ByteArrayOutputStream()) {

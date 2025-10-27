@@ -20,7 +20,7 @@ public class EmailService {
     @Autowired
     private PdfInvoiceGenerator pdfInvoiceGenerator;
 
-    private static final String LOGO_URL = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png";
+    private static final String LOGO_URL = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png";
     
     public void sendEmail(String to, String subject, String body) {
         SimpleMailMessage message = new SimpleMailMessage();
@@ -43,7 +43,7 @@ public class EmailService {
     //profile Rejection
     public void sendProfileRejectionEmail(String email, String notes) {
         String subject = "Profile Rejection Notification";
-        String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png"; // Same logo
+        String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png"; // Same logo
         String resubmitLink = "https://api.owellgraphics.com/profile/resubmit"; // Update with your actual resubmission link
 
         String htmlBody =
@@ -94,7 +94,7 @@ public class EmailService {
      */
     public void sendMusicRejectionEmail(String email, String notes) {
         String subject = "Music File Rejection Notification";
-        String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png"; // Ensure no extra spaces
+        String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png"; // Ensure no extra spaces
         String resubmitLink = "https://api.owellgraphics.com/artist/music/resubmit"; // Update with your actual link
 
         String htmlBody =
@@ -161,7 +161,7 @@ public class EmailService {
     //simple Profile Approval
     public void sendProfileApprovalEmail(String email) {
         String subject = "Profile Approval Notification";
-        String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png"; // Reuse your logo
+        String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png"; // Reuse your logo
         String dashboardLink = "https://api.owellgraphics.com/dashboard"; // Link to your system (update if needed)
 
         String htmlBody =
@@ -209,7 +209,7 @@ public class EmailService {
      */
     public void sendMusicApprovalEmail(String email) {
         String subject = "Music File Approval Notification";
-        String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png";
+        String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png";
         String dashboardLink = "https://api.owellgraphics.com/artist/dashboard"; // Link to artist dashboard
 
         String htmlBody =
@@ -263,7 +263,7 @@ public class EmailService {
 
     public void sendVerificationEmail(String email, String token) {
         String subject = "Email Verification";
-        String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png"; // Make sure this URL is accessible
+        String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png"; // Make sure this URL is accessible
         String verificationLink = "https://api.owellserver.ggff.net/api/auth/verify?token=" + token;
 
         String htmlBody =
@@ -606,7 +606,7 @@ public class EmailService {
     //Section to send and Implement forgot Password
     public void sendPasswordResetEmail(String email, String token) {
         String subject = "Password Reset Request";
-        String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png";
+        String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png";
         String resetLink = "http://localhost:3000/auth/reset-password?token=" + token; // Frontend URL
         // If you don't have a frontend yet, you can point to a temporary endpoint later
 

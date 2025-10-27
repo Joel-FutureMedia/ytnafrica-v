@@ -73,7 +73,7 @@ public class EmailService {
 
                         "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
                         "<p>&copy; 2025 africtune. All rights reserved.</p>" +
-                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #cc0000; text-decoration: none;'>support@africtune.com</a></p>" +
+                        "<p>For support, contact us at <a href='mailto:support@africtune.com' style='color: #cc0000; text-decoration: none;'>support@africtune.com</a></p>" +
                         "</div>" +
                         "</div>";
 
@@ -274,7 +274,7 @@ public class EmailService {
 
                         "<div style='padding: 30px; color: #444; line-height: 1.6;'>" +
                         "<h2 style='color: #ed7c08; margin-top: 0;'>Hello, Africtune Member!</h2>" +
-                        "<p style='font-size: 16px; color: #333;'>Thank you for registering with <strong>namsa</strong>.</p>" +
+                        "<p style='font-size: 16px; color: #333;'>Thank you for registering with <strong>africtune</strong>.</p>" +
                         "<p style='font-size: 16px;'>To complete your registration, please verify your email address by clicking the button below:</p>" +
 
                         "<div style='text-align: center; margin: 30px 0;'>" +
@@ -290,7 +290,7 @@ public class EmailService {
 
                         "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
                         "<p>&copy; 2025 Africtune. All rights reserved.</p>" +
-                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #ed7c08; text-decoration: none;'>support@africtune.com</a></p>" +
+                        "<p>For support, contact us at <a href='mailto:support@africtune.com' style='color: #ed7c08; text-decoration: none;'>support@africtune.com</a></p>" +
                         "</div>" +
                         "</div>";
 
@@ -573,7 +573,7 @@ public class EmailService {
                 <!-- Footer -->
                 <div style='text-align: center; padding: 15px; color: #777; font-size: 13px; border-top: 1px solid #eee; margin-top: 20px;'>
                     <p>&copy; 2025 africtune. All rights reserved.</p>
-                    <p>If you have questions, contact <a href='mailto:support@namsa.com' style='color: #8a2be2;'>support@africtune.com</a></p>
+                    <p>If you have questions, contact <a href='mailto:support@africtune.com' style='color: #8a2be2;'>support@africtune.com</a></p>
                 </div>
             </div>
         </div>

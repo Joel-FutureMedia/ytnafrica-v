@@ -428,7 +428,7 @@ public class EmailService {
                     <!-- Footer -->
                     <div style='text-align: center; padding: 15px; color: #777; font-size: 13px; border-top: 1px solid #eee; margin-top: 20px;'>
                         <p>&copy; 2025 africtune. All rights reserved.</p>
-                        <p>If you have questions, contact <a href='mailto:support@namsa.com' style='color: #8a2be2;'>support@africtune.com</a></p>
+                        <p>If you have questions, contact <a href='mailto:support@africtune.com' style='color: #8a2be2;'>support@africtune.com</a></p>
                     </div>
                 </div>
             </div>

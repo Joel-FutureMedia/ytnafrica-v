@@ -53,7 +53,7 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='padding: 30px; color: #444; line-height: 1.6;'>" +
-                        "<h2 style='color: #cc0000; margin-top: 0;'>Dear Namsa Member,</h2>" +
+                        "<h2 style='color: #cc0000; margin-top: 0;'>Dear Africtune Member,</h2>" +
                         "<p style='font-size: 16px; color: #333;'>We regret to inform you that your profile has been <strong>rejected</strong> by our administrator.</p>" +
 
                         "<p style='font-size: 16px; color: #cc0000;'><strong>Reason:</strong> " + notes + "</p>" +
@@ -72,8 +72,8 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
-                        "<p>&copy; 2025 namsa. All rights reserved.</p>" +
-                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #cc0000; text-decoration: none;'>support@namsa.com</a></p>" +
+                        "<p>&copy; 2025 africtune. All rights reserved.</p>" +
+                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #cc0000; text-decoration: none;'>support@africtune.com</a></p>" +
                         "</div>" +
                         "</div>";
 
@@ -104,7 +104,7 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='padding: 30px; color: #444; line-height: 1.6;'>" +
-                        "<h2 style='color: #cc0000; margin-top: 0;'>Dear Namsa Member,</h2>" +
+                        "<h2 style='color: #cc0000; margin-top: 0;'>Dear Africtune Member,</h2>" +
                         "<p style='font-size: 16px; color: #333;'>We regret to inform you that your music submission has been <strong>rejected</strong> by our administrator.</p>" +
 
                         "<p style='font-size: 16px; color: #cc0000;'><strong>Reason:</strong> " + notes + "</p>" +
@@ -123,8 +123,8 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
-                        "<p>&copy; 2025 namsa. All rights reserved.</p>" +
-                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #cc0000; text-decoration: none;'>support@namsa.com</a></p>" +
+                        "<p>&copy; 2025 africtune. All rights reserved.</p>" +
+                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #cc0000; text-decoration: none;'>support@africtune.com</a></p>" +
                         "</div>" +
                         "</div>";
 
@@ -171,7 +171,7 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='padding: 30px; color: #444; line-height: 1.6;'>" +
-                        "<h2 style='color: #ed7c08; margin-top: 0;'>Dear Namsa Member,</h2>" +
+                        "<h2 style='color: #ed7c08; margin-top: 0;'>Dear Africtune Member,</h2>" +
                         "<p style='font-size: 16px; color: #333;'>Congratulations! Your profile has been <strong>approved</strong> by the administrator.</p>" +
                         "<p style='font-size: 16px;'>You can now upload and manage your music files in the system.</p>" +
 
@@ -187,8 +187,8 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
-                        "<p>&copy; 2025 namsa. All rights reserved.</p>" +
-                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #ed7c08; text-decoration: none;'>support@ytnafrica.com</a></p>" +
+                        "<p>&copy; 2025 Africtune. All rights reserved.</p>" +
+                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #ed7c08; text-decoration: none;'>support@africtune.com</a></p>" +
                         "</div>" +
                         "</div>";
 
@@ -219,7 +219,7 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='padding: 30px; color: #444; line-height: 1.6;'>" +
-                        "<h2 style='color: #ed7c08; margin-top: 0;'>Dear Namsa Member,</h2>" +
+                        "<h2 style='color: #ed7c08; margin-top: 0;'>Dear Africtune Member,</h2>" +
                         "<p style='font-size: 16px; color: #333;'>Congratulations! Your music file has been <strong>approved</strong> by the administrator.</p>" +
                         "<p style='font-size: 16px;'>Your track is now live in the system and available for companies to license and use.</p>" +
 
@@ -235,8 +235,8 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
-                        "<p>&copy; 2025 namsa. All rights reserved.</p>" +
-                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #2e7d32; text-decoration: none;'>support@ytnafrica.com</a></p>" +
+                        "<p>&copy; 2025 Africtune. All rights reserved.</p>" +
+                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #2e7d32; text-decoration: none;'>support@africtune.com</a></p>" +
                         "</div>" +
                         "</div>";
 
@@ -273,7 +273,7 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='padding: 30px; color: #444; line-height: 1.6;'>" +
-                        "<h2 style='color: #ed7c08; margin-top: 0;'>Hello, Namsa Member!</h2>" +
+                        "<h2 style='color: #ed7c08; margin-top: 0;'>Hello, Africtune Member!</h2>" +
                         "<p style='font-size: 16px; color: #333;'>Thank you for registering with <strong>namsa</strong>.</p>" +
                         "<p style='font-size: 16px;'>To complete your registration, please verify your email address by clicking the button below:</p>" +
 
@@ -289,8 +289,8 @@ public class EmailService {
                         "</div>" +
 
                         "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
-                        "<p>&copy; 2025 namsa. All rights reserved.</p>" +
-                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #ed7c08; text-decoration: none;'>support@namsa.com</a></p>" +
+                        "<p>&copy; 2025 Africtune. All rights reserved.</p>" +
+                        "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #ed7c08; text-decoration: none;'>support@africtune.com</a></p>" +
                         "</div>" +
                         "</div>";
 
@@ -308,7 +308,7 @@ public class EmailService {
 
     // invoice pdf
     public void sendInvoiceEmail(String clientEmail, Invoice invoice) {
-        String subject = "Invoice Number - " + invoice.getInvoiceNumber() + " - NAMSA ";
+        String subject = "Invoice Number - " + invoice.getInvoiceNumber() + " - AFRICTUNE ";
 
         String htmlBody = buildInvoiceHtml(invoice);
 
@@ -375,7 +375,7 @@ public class EmailService {
                         <tr>
                             <td class="stack" width='50%%' style='vertical-align: top; padding-right: 10px;'>
                                 <strong>From:</strong><br/>
-                                <strong>NAMSA</strong><br/>
+                                <strong>AFRICTUNE</strong><br/>
                                 %s<br/>
                                 Phone: %s<br/>
                                 Email: %s<br/>
@@ -427,8 +427,8 @@ public class EmailService {
 
                     <!-- Footer -->
                     <div style='text-align: center; padding: 15px; color: #777; font-size: 13px; border-top: 1px solid #eee; margin-top: 20px;'>
-                        <p>&copy; 2025 namsa. All rights reserved.</p>
-                        <p>If you have questions, contact <a href='mailto:support@namsa.com' style='color: #8a2be2;'>support@namsa.com</a></p>
+                        <p>&copy; 2025 africtune. All rights reserved.</p>
+                        <p>If you have questions, contact <a href='mailto:support@namsa.com' style='color: #8a2be2;'>support@africtune.com</a></p>
                     </div>
                 </div>
             </div>
@@ -468,7 +468,7 @@ public class EmailService {
     //send email for payments
     // artist payment pdf
     public void sendPayment(String artistEmail, ArtistInvoiceReports artistInvoice) {
-        String subject = "Payment Report - " + artistInvoice.getPaymentId() + " - NAMSA ";
+        String subject = "Payment Report - " + artistInvoice.getPaymentId() + " - AFRICTUNE ";
 
         String htmlBody = buildArtistPaymentHtml(artistInvoice);
 
@@ -520,7 +520,7 @@ public class EmailService {
                     <tr>
                         <td class="stack" width='50%%' style='vertical-align: top; padding-right: 10px;'>
                             <strong>From:</strong><br/>
-                            <strong>NAMSA</strong><br/>
+                            <strong>AFRICTUNE</strong><br/>
                             %s<br/>
                             Phone: %s<br/>
                             Email: %s<br/>
@@ -572,8 +572,8 @@ public class EmailService {
 
                 <!-- Footer -->
                 <div style='text-align: center; padding: 15px; color: #777; font-size: 13px; border-top: 1px solid #eee; margin-top: 20px;'>
-                    <p>&copy; 2025 namsa. All rights reserved.</p>
-                    <p>If you have questions, contact <a href='mailto:support@namsa.com' style='color: #8a2be2;'>support@namsa.com</a></p>
+                    <p>&copy; 2025 africtune. All rights reserved.</p>
+                    <p>If you have questions, contact <a href='mailto:support@namsa.com' style='color: #8a2be2;'>support@africtune.com</a></p>
                 </div>
             </div>
         </div>
@@ -607,7 +607,7 @@ public class EmailService {
     public void sendPasswordResetEmail(String email, String token) {
         String subject = "Password Reset Request";
         String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png";
-        String resetLink = "http://localhost:3000/auth/reset-password?token=" + token; // Frontend URL
+        String resetLink = "https://portal.africtune.ggff.net/auth/reset-password?token=" + token; // Frontend URL
         // If you don't have a frontend yet, you can point to a temporary endpoint later
 
         String htmlBody = """
@@ -629,8 +629,8 @@ public class EmailService {
                 <p style='font-size: 14px; color: #999; margin-top: 20px;'>This link expires in 1 hour.</p>
             </div>
             <div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>
-                <p>&copy; 2025 namsa. All rights reserved.</p>
-                <p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #ed7c08; text-decoration: none;'>support@namsa.com</a></p>
+                <p>&copy; 2025 africtune. All rights reserved.</p>
+                <p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #ed7c08; text-decoration: none;'>support@africtune.com</a></p>
             </div>
         </div>
         """.formatted(logoUrl, resetLink, resetLink);

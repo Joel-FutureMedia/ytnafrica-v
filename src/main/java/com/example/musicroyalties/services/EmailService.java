@@ -44,7 +44,7 @@ public class EmailService {
     public void sendProfileRejectionEmail(String email, String notes) {
         String subject = "Profile Rejection Notification";
         String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png"; // Same logo
-        String resubmitLink = "https://api.owellgraphics.com/profile/resubmit"; // Update with your actual resubmission link
+        String resubmitLink = "https://api.owellserver.ggff.net/profile/resubmit"; // Update with your actual resubmission link
 
         String htmlBody =
                 "<div style='font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #f0f0f0; border-radius: 10px; background-color: #fff8f8;'>" +
@@ -95,7 +95,7 @@ public class EmailService {
     public void sendMusicRejectionEmail(String email, String notes) {
         String subject = "Music File Rejection Notification";
         String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png"; // Ensure no extra spaces
-        String resubmitLink = "https://api.owellgraphics.com/artist/music/resubmit"; // Update with your actual link
+        String resubmitLink = "https://api.owellserver.ggff.net/artist/music/resubmit"; // Update with your actual link
 
         String htmlBody =
                 "<div style='font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #f0f0f0; border-radius: 10px; background-color: #fff8f8;'>" +
@@ -162,7 +162,7 @@ public class EmailService {
     public void sendProfileApprovalEmail(String email) {
         String subject = "Profile Approval Notification";
         String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png"; // Reuse your logo
-        String dashboardLink = "https://api.owellgraphics.com/dashboard"; // Link to your system (update if needed)
+        String dashboardLink = "https://api.owellserver.ggff.net/dashboard"; // Link to your system (update if needed)
 
         String htmlBody =
                 "<div style='font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #f0f0f0; border-radius: 10px; background-color: #f9f7ff;'>" +
@@ -210,7 +210,7 @@ public class EmailService {
     public void sendMusicApprovalEmail(String email) {
         String subject = "Music File Approval Notification";
         String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png";
-        String dashboardLink = "https://api.owellgraphics.com/artist/dashboard"; // Link to artist dashboard
+        String dashboardLink = "https://api.owellserver.ggff.net/artist/dashboard"; // Link to artist dashboard
 
         String htmlBody =
                 "<div style='font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #f0f0f0; border-radius: 10px; background-color: #f7fff7;'>" +

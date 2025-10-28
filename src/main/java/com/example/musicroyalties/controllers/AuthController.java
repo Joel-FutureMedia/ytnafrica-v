@@ -133,7 +133,7 @@ public class AuthController {
 
                                 "<div style='text-align: center; padding-top: 20px; border-top: 1px solid #eaeaea; color: #999; font-size: 13px;'>" +
                                 "<p>&copy; 2025 africtune. All rights reserved.</p>" +
-                                "<p>For support, contact us at <a href='mailto:support@namsa.com' style='color: #8a2be2; text-decoration: none;'>support@africtune.com</a></p>" +
+                                "<p>For support, contact us at <a href='mailto:support@africtune.com' style='color: #8a2be2; text-decoration: none;'>support@africtune.com</a></p>" +
                                 "</div>" +
                                 "</div>";
 

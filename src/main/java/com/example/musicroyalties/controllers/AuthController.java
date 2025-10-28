@@ -107,8 +107,8 @@ public class AuthController {
         try {
             boolean verified = userService.verifyEmail(token);
             if (verified) {
-                String loginUrl = "https://namsa.vercel.app"; // replace this
-                String logoUrl = "https://namsa.vercel.app/assets/namsa-logo-BGptgL6M.png";
+                String loginUrl = "https://portal.africtune.ggff.net"; // replace this
+                String logoUrl = "https://africtune.ggff.net/assets/logo-DOUqIMrq.png";
 
                 String htmlResponse =
                         "<div style='font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #f0f0f0; border-radius: 10px; background-color: #f9f7ff;'>" +

@@ -29,7 +29,7 @@ public class MemberDetails {
     @Column(nullable = false)
     private String surname;
 
-    private int idNumber;
+    private Long idNumber;
 
     @Column(unique = true)
     private String ArtistId;

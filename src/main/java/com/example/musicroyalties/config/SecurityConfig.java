@@ -84,7 +84,8 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowedOrigins(Arrays.asList(
                 "https://portal.africtune.ggff.net", // deployed frontend
-                "http://localhost:8080"     // local Vite dev
+                "http://localhost:8080", 
+                "http://localhost:58958"// local Vite dev
         ));
         config.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         config.setAllowedHeaders(Arrays.asList("*"));
